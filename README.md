@@ -4,6 +4,6 @@
 
 ## Category
 
-- Origianl (#original)
+- Original(#original)
 
 ## Original
